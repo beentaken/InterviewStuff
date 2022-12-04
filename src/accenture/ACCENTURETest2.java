@@ -1,4 +1,5 @@
-package solution;
+package accenture;
+
 
 public class ACCENTURETest2 {
 	public static void a(String s) {
